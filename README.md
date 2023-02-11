@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Srinivasan260
-- 👀 I’m interested in Web developing...
-- 🌆 I’m currently doing projects ...
-- 💞️ I’m looking for an internship
-- 📫 ...
+# jenkins-example-currentbuild
 
-<!---
-Srinivasan260/Srinivasan260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Repository to support https://www.youtube.com/watch?v=gcUORgHuna4
+
+## Links
+
+* [Getting started with Pipeline - Global Variable Reference](https://www.jenkins.io/doc/book/pipeline/getting-started/#global-variable-reference)
+* [Sidebar Link](https://plugins.jenkins.io/sidebar-link/)
+* [Shared library used in controller](https://github.com/darinpope/github-api-global-lib)
